@@ -10,7 +10,7 @@ navigate to the turtlesim directory
 
 ### building the image
 
-run `.docker/build_image.sh` to build the docker image or `.docker/build_image.sh` to build the docker image if you are using zsh
+run `.docker/build_image.sh` to build the docker image or `.docker/build_image_zsh.sh` to build the docker image if you are using zsh
 
 ### running the container
 
