@@ -44,7 +44,12 @@ fi
 
 ### vscode integration
 
-requires the remote development extension pack for vs code to be installed
+requires the following vscode extensions to be installed
+
+- [docker](https://code.visualstudio.com/docs/containers/overview)
+- [remote development](https://code.visualstudio.com/docs/remote/remote-overview)
+
+devcontainer.json is included in the .docker directory of this repo.
 
 Attach vs code to container
 
