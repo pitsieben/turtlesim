@@ -44,6 +44,7 @@ RUN apt-get update && apt-get install --no-install-recommends -y \
     python3-vcstool \
     ros-$ROSDISTRO-rqt \
     ros-$ROSDISTRO-rqt-action \
+    ros-$ROSDISTRO-rqt-plot \
     ros-$ROSDISTRO-rqt-console \
     ros-$ROSDISTRO-rqt-service-caller \
     ros-$ROSDISTRO-rqt-graph \
